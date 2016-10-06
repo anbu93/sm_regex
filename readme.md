@@ -43,6 +43,16 @@ It is recursive tear down algorithm. This is not optimal of size method. But it 
     This is final release (version 1.0) <br>
     _Не могу не сказать что это велосипедостроение, но все же иногда бывает полезно строить велосипеды, в учебных целях._
 
+### Maven
+
+For add it to your project, use maven. And add this dependency in the dependencies block in 'pom.xml'
+
+    <dependency>
+        <groupId>vova_cons</groupId>
+        <artifactId>sm_regex</artifactId>
+        <version>1.0.0</version>
+    </dependency>
+
 ### Autor
 **Vladimir Konstantinov** <br>
 **anbu23477@gmail.com** <br>
