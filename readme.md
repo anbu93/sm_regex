@@ -8,7 +8,7 @@
 
 *And my SM-Regex use:*
 
-    RegularExpression regex = RegularExpression.create(regexString);
+    RegularExpression regex = RegularExpressionBuilder.create(regexString);
     regex.isMatch(inputString); // boolean value returned
 
 *Or:*
